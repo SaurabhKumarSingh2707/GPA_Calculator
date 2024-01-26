@@ -88,7 +88,7 @@ elif chemLab in range(25,30):
 else:
     gp6=0 
     
-    
+# its credit of each subject  
 cd1=4
 cd2=3
 cd3=3
