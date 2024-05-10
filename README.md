@@ -1,2 +1,2 @@
 # GPA_Calculator
- It is a GPA calculator creating using python programming
+ It is a GPA calculator created using python programming
